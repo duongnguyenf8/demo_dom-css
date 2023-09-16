@@ -11102,7 +11102,7 @@
           children: l || o,
         });
       }
-      var yt = '../media/notify.svg',
+      var yt = './media/notify.svg',
         gt = {
           notify: 'notifyStyles_notify__BCwgq',
           animateShow: 'notifyStyles_animateShow__d0Awo',
